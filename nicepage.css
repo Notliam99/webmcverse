@@ -37036,24 +37036,64 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 125px;
+  min-height: 144px;
+}
+
+.u-footer .u-shape-1 {
+  width: 509px;
+  height: 106px;
+  background-image: linear-gradient(to right, #3c9826, #7c3521);
+  margin: 11px auto 0;
+}
+
+.u-footer .u-text-1 {
+  margin: -86px 344px 0 auto;
 }
 
 .u-footer .u-social-icons-1 {
-  height: 127px;
+  height: 74px;
   min-height: 16px;
-  width: 127px;
+  width: 74px;
   min-width: 16px;
-  margin: 0 auto 0 0;
+  margin: -70px auto 43px 364px;
 }
 
 .u-footer .u-icon-1 {
   height: 100%;
 }
+@media (max-width: 1199px) {
+  .u-footer .u-text-1 {
+    margin-top: -86px;
+    margin-right: 284px;
+  }
+}
+@media (max-width: 991px) {
+  .u-footer .u-text-1 {
+    margin-right: 218px;
+  }
+}
+@media (max-width: 767px) {
+  .u-footer .u-text-1 {
+    margin-right: 164px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-shape-1 {
+    width: 340px;
+    margin-top: 126px;
+  }
 
+  .u-footer .u-text-1 {
+    margin-top: -310px;
+    margin-right: 103px;
+  }
 
-
-
+  .u-footer .u-social-icons-1 {
+    margin-top: -50px;
+    margin-bottom: 60px;
+    margin-left: 266px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
