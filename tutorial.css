@@ -17,4 +17,15 @@
   .u-section-1 .u-text-1 {
     margin-top: 60px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 356px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 3.75rem;
+  background-image: none;
+  margin: 219px auto 41px;
+  padding: 0 29px 0 28px;
 }
