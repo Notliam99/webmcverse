@@ -37396,7 +37396,6 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 509px;
   background-image: linear-gradient(to right, #3c9826, #7c3521);
   min-height: 106px;
-  height: auto;
   margin: 19px auto;
 }
 
@@ -37420,10 +37419,6 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -74px 0 0 auto;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-group-1 {
-    height: auto;
-  }
-
   .u-footer .u-social-icons-1 {
     margin-top: 15px;
   }
