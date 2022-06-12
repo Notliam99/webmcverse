@@ -44,80 +44,126 @@
     font-size: 3.75rem;
   }
 } .u-section-2 {
-  min-height: 549px;
+  background-image: url("/images/minecraft_wallpaper_by_philuppus-d4q03oc-1526029086.png");
+  background-position: 50% 50%;
 }
 
-.u-section-2 .u-layout-wrap-1 {
-  margin-top: 0;
-  margin-bottom: 0;
+.u-section-2 .u-sheet-1 {
+  min-height: 173px;
 }
 
-.u-section-2 .u-video-1 {
-  min-height: 549px;
-}
-
-.u-section-2 .u-container-layout-1 {
-  padding: 0;
-}
-
-.u-section-2 .embed-responsive-1 {
-  position: absolute;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 549px;
-}
-
-.u-section-2 .u-container-layout-2 {
-  padding: 30px 60px;
+.u-section-2 .u-shape-1 {
+  width: 595px;
+  height: 116px;
+  background-image: none;
+  margin: 29px auto 0;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 22px auto 0 0;
-}
-
-.u-section-2 .u-text-2 {
-  margin: 20px 0 0;
-}
-
-.u-section-2 .u-btn-1 {
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 2px;
-  background-image: none;
-  border-style: solid;
-  margin: 20px auto 0 0;
-  padding: 10px 34px;
+  font-weight: 900;
+  margin: -110px auto 35px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-2 .u-video-1 {
-    background-position: 50% 50%;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 453px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 30px;
-    padding-right: 30px;
+  .u-section-2 .u-sheet-1 {
+    min-height: 482px;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
-    min-height: 649px;
+  .u-section-2 .u-sheet-1 {
+    min-height: 534px;
   }
 
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 10px;
-    padding-right: 10px;
+  .u-section-2 .u-shape-1 {
+    width: 540px;
+    margin-top: 253px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -421px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 477px;
+  }
+
+  .u-section-2 .u-shape-1 {
+    width: 340px;
+    margin-top: 196px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -364px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 504px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 5px;
+  }
+
+  .u-section-3 .embed-responsive-1 {
+    width: 198%;
+    left: -49%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 0;
+  }
+
+  .u-section-3 .embed-responsive-1 {
+    width: 314%;
+    left: -107%;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 229px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 30px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  width: 680px;
+  margin: 20px auto 0;
+}
+
+.u-section-4 .u-btn-1 {
+  margin: 30px auto 15px;
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-2 {
+    width: 340px;
   }
 }
