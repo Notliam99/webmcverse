@@ -28,6 +28,13 @@
   font-weight: 700;
   font-size: 3.75rem;
   background-image: none;
-  margin: 47px auto 54px;
+  margin: 51px auto;
   padding: 0 29px 0 28px;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-btn-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
