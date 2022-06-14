@@ -592,11 +592,15 @@
 .home-position {
   color: var(--dl-color-gray-700);
 }
+.home-link15 {
+  display: contents;
+}
 .home-team-card1 {
   display: flex;
   padding: var(--dl-space-space-fourunits);
   align-items: center;
   flex-direction: column;
+  text-decoration: none;
 }
 .home-avatar-container1 {
   display: flex;
